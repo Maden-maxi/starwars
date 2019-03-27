@@ -1,0 +1,27 @@
+{
+  "npmScope": "starwars",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "starwars": {
+      "tags": []
+    },
+    "starwars-e2e": {
+      "tags": []
+    },
+    "api": {
+      "tags": []
+    },
+    "api-interface": {
+      "tags": []
+    },
+    "starwars-ui": {
+      "tags": ["ui"]
+    }
+  }
+}
