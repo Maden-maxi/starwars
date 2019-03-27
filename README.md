@@ -8,7 +8,7 @@ yarn ng serve api
 ```
 In second one
 ```
-yarn ng serve starwars
+yarn ng serve starwarsit 
 ```
 
 This project was generated using [Nx](https://nx.dev).
