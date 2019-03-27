@@ -1,5 +1,16 @@
 # Starwars
 
+# Run project
+
+In first terminal
+```
+yarn ng serve api
+```
+In second one
+```
+yarn ng serve starwars
+```
+
 This project was generated using [Nx](https://nx.dev).
 
 <p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" width="450"></p>
